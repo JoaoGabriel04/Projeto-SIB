@@ -38,7 +38,7 @@
 
 ## 📄 Licença
 
-Este projeto está sob a licença [MIT LICENSE](license). Veja o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença [MIT LICENSE](license.txt). Veja o arquivo LICENSE para mais detalhes.
 
 ## 👨‍💻 Autor
 
