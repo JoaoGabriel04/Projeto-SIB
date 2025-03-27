@@ -32,13 +32,13 @@
 ## 📷 Demonstração
 
 1. Acesso à Página do Estudante: Usuário: admin / Senha: admin.
-![Tela de Login de entrar Estudante]("screenshots/tela-login-estudante.png")
+![Tela de Login de entrar Estudante](screenshots/tela-login-estudante.png)
 2. Acesso à Página do Servidor: Usuário: advanced / Senha: admin.
-![Tela de Login para entrar Servidor]("screenshots/tela-login-servidor.png")
+![Tela de Login para entrar Servidor](screenshots/tela-login-servidor.png)
 
 ## 📄 Licença
 
-Este projeto está sob a licença [MIT LICENSE]("license.txt"). Veja o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença [MIT LICENSE](license). Veja o arquivo LICENSE para mais detalhes.
 
 ## 👨‍💻 Autor
 
